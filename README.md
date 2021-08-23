@@ -1,4 +1,4 @@
-## Hi, I’m Wesley and Welcome to my github profile! Enjoy \o/ (Actually I work in private places and my contributions are allocated in a private gitlab repo)
+## Hi, I’m Wesley and Welcome to my github profile! Enjoy \o/ (Actually I work in a private company and my contributions are allocated in a private gitlab repo)
 
 Following a quick review about my github status
 
