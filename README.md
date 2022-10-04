@@ -2,15 +2,6 @@
 
 #### (Actually I work in a private company and my contributions are allocated in a private gitlab repo)
 
-### Following a quick review about my github status
-
-[![Wesley's GitHub stats](https://github-readme-stats.vercel.app/api?username=wee4&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-### And then the top languages used:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wee4&layout=compact&theme=gotham&hide=tsql)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### I've expirence on following languages:
 
 
